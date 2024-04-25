@@ -11,3 +11,6 @@ mpirun --version
 
 mpicc MPI.c
 mpirun -np 4 ./a.out
+
+mpicc MPI.c -o mpi_program
+mpirun -np 4 ./mpi_program
