@@ -1,0 +1,11 @@
+For Bully Algorithm:
+
+javac ./Bully.java
+java Bully
+
+
+
+For Ring Algorithm:
+
+javac ./Ring.java
+java Ring
