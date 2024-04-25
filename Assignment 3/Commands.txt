@@ -1,0 +1,9 @@
+(Download the zip file and extract all)
+
+Zip File: https://sourceforge.net/projects/mpjexpress/files/releases/
+
+export MPJ_HOME=path to mpj
+export PATH=$MPJ_HOME/bin:$PATH
+
+javac -cp $MPJ_HOME/lib/mpj.jar ArrSum.java
+mpjrun.sh -np 2 ArrSum
