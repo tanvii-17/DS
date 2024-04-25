@@ -1,0 +1,12 @@
+For linux:
+sudo apt-get install python
+pip3 install flask
+python3 app.py
+
+
+For windows:
+pip install flask
+python app.py
+
+
+Edit index.html in templates folder as required and also app.py
